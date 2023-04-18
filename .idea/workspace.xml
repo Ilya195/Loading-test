@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84d068b8-453a-4c5a-ab3d-bab8cb3bf42f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Influx.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prometheus/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prometheus/grafana/dashboards/node-exporter-full_rev25.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prometheus/grafana/provisioning/dashboards/all.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prometheus/grafana/provisioning/datasources/prometheus.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prometheus/prometheus/prometheus.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/telegraf/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/telegraf/telegraf/grafana/dashboards/telegraf-system-dashboard_rev4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/telegraf/telegraf/grafana/provisioning/dashboards/all.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/telegraf/telegraf/grafana/provisioning/datasources/influxdb.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/telegraf/telegraf/telegraf/etc/telegraf.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +24,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/1/IdeaProjects/Influx&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/Soft/InfluxDB"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\1\IdeaProjects\Influx\telegraf\telegraf\telegraf" />
